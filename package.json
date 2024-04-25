@@ -119,6 +119,7 @@
     "@polkadot/x-textdecoder": "^12.6.2",
     "@polkadot/x-textencoder": "^12.6.2",
     "@polkadot/x-ws": "^12.6.2",
+    "node-gyp": "^10.0.1",
     "typescript": "^5.3.3"
   }
 }
